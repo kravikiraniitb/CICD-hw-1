@@ -12,4 +12,4 @@ This repository demonstrates a simple Flask application setup with a CI/CD pipel
 
 ### Local Setup
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/kravikiraniitb/CICD-hw-1
